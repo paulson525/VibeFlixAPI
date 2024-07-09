@@ -7,11 +7,7 @@ const PORT = process.env.PORT || 5000
 
 const products_routes = require("./routes/products")
 
-app.get("/", (req, res) => {
-    res.send(" Hi I'm Live ")
-});
-
-app.use("/products", products_routes);
+app.use("/", products_routes);
 
 
 const start = async () => {
