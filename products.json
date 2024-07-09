@@ -4,7 +4,7 @@
         "category": "movie",
         "description": "Follow Tillu as his life is upended by a mysterious murder, plunging him into a perilous journey of discovery and danger.",
         "video": "https://www.youtube.com/embed/YNVU8fjJj4U?si=yKhTgihGIKIKteGO",
-        "thumbnail": "./Thumbnails/tillusqr.jpg",
+        "thumbnail": "/Thumbnails/tillusqr.jpg",
         "key": "popular",
         "blockbuster": true
     },
@@ -13,7 +13,7 @@
         "category": "movie",
         "description": "The highs and lows of family relationships in a Indian middle-class family. The life of Govardhan, who wants to achieve greatness in life but has to navigate through a myriad of relationship/trust/ego issues.",
         "video": "https://www.youtube.com/embed/0nWuRw770TI?si=DTK4RoSr37WfLJ-i",
-        "thumbnail": "./Thumbnails/familystar.jpg",
+        "thumbnail": "/Thumbnails/familystar.jpg",
         "key": "popular"
     },
     {
@@ -21,7 +21,7 @@
         "category": "movie",
         "description": "Sachin's quest for love takes unexpected turns, creating a laughter-filled love triangle.",
         "video": "https://www.youtube.com/embed/tQyEDwnwwsA?si=qJnbei1oxAFlRNYc",
-        "thumbnail": "./Thumbnails/premalu.jpg",
+        "thumbnail": "/Thumbnails/premalu.jpg",
         "key": "popular"
     },
     {
@@ -29,7 +29,7 @@
         "category": "movie",
         "description": "Years after his mother abandons him and remarries, a man demands answers when he's asked to sign a document denying he is her son as she runs for office.",
         "video": "https://www.youtube.com/embed/DYLG65xz55U?si=AaNCXZIk0pXqVyqd",
-        "thumbnail": "./Thumbnails/gunturkaram.jpg",
+        "thumbnail": "/Thumbnails/gunturkaram.jpg",
         "key": "popular"
     },
     {
@@ -37,7 +37,7 @@
         "category": "movie",
         "description": "Arun and Divya's six-year relationship starts unraveling as they drift apart, raising the question of whether love can withstand such differences",
         "video": "https://www.youtube.com/embed/y6iMGX11LeE?si=BXn3YJ00bPatUoUF",
-        "thumbnail": "./Thumbnails/truelover.jpg",
+        "thumbnail": "/Thumbnails/truelover.jpg",
         "key": "popular"
     },
     {
@@ -45,7 +45,7 @@
         "category": "movie",
         "description": "A single father begins to narrate the story of the missing mother to his child and nothing remains the same.",
         "video": "https://www.youtube.com/embed/Iz97_kxHaSc?si=RFTUYsIukcNDIIM5",
-        "thumbnail": "./Thumbnails/hinanna.jpg",
+        "thumbnail": "/Thumbnails/hinanna.jpg",
         "key": "popular",
         "blockbuster": true
     },
@@ -54,7 +54,7 @@
         "category": "movie",
         "description": "An imaginary place called Anjanadri where the protagonist gets the powers of Hanuman and fights for Anjanadri.",
         "video": "https://www.youtube.com/embed/Oqvly3MvlXA?si=mJryTibLNtFfo9Zh",
-        "thumbnail": "./Thumbnails/hanuman.jpg",
+        "thumbnail": "/Thumbnails/hanuman.jpg",
         "key": "popular"
     },
     {
@@ -62,21 +62,21 @@
         "category": "movie",
         "description": "Mysterious incidents at a historical temple bring a detective to a small town to investigate. He seeks the truth behind the strange happenings.",
         "video": "https://www.youtube.com/embed/P3t--CmbibE?si=RlEPY8YB6HAssX9z",
-        "thumbnail": "./Thumbnails/bhimaa.jpg"
+        "thumbnail": "/Thumbnails/bhimaa.jpg"
     },
     {
         "title": "Ooru Peru Bhairavakona",
         "category": "movie",
         "description": "A man goes in search of some urgently required answers to the world of Bhairavakona, from which there's seemingly no way out.",
         "video": "https://www.youtube.com/embed/opGD_YmHwdk?si=g6RJm6t6oEwFsAtj",
-        "thumbnail": "./Thumbnails/ooripb.jpg"
+        "thumbnail": "/Thumbnails/ooripb.jpg"
     },
     {
         "title": "Kalki - 2898 AD",
         "category": "movie",
         "description": "A modern-day avatar of Vishnu, a Hindu god, who is believed to have descended to earth to protect the world from evil forces.",
         "video": "https://www.youtube.com/embed/y1-w1kUGuz8?si=NZiEChgi_25WJv7y",
-        "thumbnail": "./Thumbnails/kalki.jpg",
+        "thumbnail": "/Thumbnails/kalki.jpg",
         "key": "new",
         "blockbuster": true
     },
@@ -85,7 +85,7 @@
         "category": "movie",
         "description": "Follows three scientists who come to a village to find a treasure, but things don't turn easy for them because there is black magic in that village.",
         "video": "https://www.youtube.com/embed/JBE1CxmIHQA?si=kfm1SqrUX6Dhbsrk",
-        "thumbnail": "./Thumbnails/ombeembush.jpg",
+        "thumbnail": "/Thumbnails/ombeembush.jpg",
         "key": "new",
         "blockbuster": true
     },
@@ -94,7 +94,7 @@
         "category": "movie",
         "description": "A morally-corrupt man seeks to rise within the gritty world of politics and power - but his ambition could ultimately cost him his life.",
         "video": "https://www.youtube.com/embed/NpAHKlPrxIg?si=8uHMgeUGZZb9QCKZ",
-        "thumbnail": "./Thumbnails/gangs.jpg",
+        "thumbnail": "/Thumbnails/gangs.jpg",
         "key": "new"
     },
     {
@@ -102,7 +102,7 @@
         "category": "movie",
         "description": "Two high-school sweethearts face challenges in their relationship when they take different directions in life.",
         "video": "https://www.youtube.com/embed/_npN4uwDMLk?si=J91ku06UqLClk1Wr",
-        "thumbnail": "./Thumbnails/baby.jpg",
+        "thumbnail": "/Thumbnails/baby.jpg",
         "blockbuster": true
     },
     {
@@ -110,14 +110,14 @@
         "category": "movie",
         "description": "A man leaves and turns against the British-led Indian military after witnessing atrocity.",
         "video": "https://www.youtube.com/embed/Eqzk-fjinmw?si=5Fk4UAxQWdGMvr5M",
-        "thumbnail": "./Thumbnails/captainmiller.jpg"
+        "thumbnail": "/Thumbnails/captainmiller.jpg"
     },
     {
         "title": "Love Me If You Dare",
         "category": "movie",
         "description": "A man's romance with an enigmatic woman leads him down a dark path as he faces terrifying events, vanishings, and heartbreak while urgently trying to uncover her true nature in this eerie Telugu fantasy romance.",
         "video": "https://www.youtube.com/embed/Do5RwYtaQfs?si=RuTi59XRr7B4qpz1",
-        "thumbnail": "./Thumbnails/loveme.jpg",
+        "thumbnail": "/Thumbnails/loveme.jpg",
         "key": "new"
     },
     {
@@ -125,14 +125,14 @@
         "category": "movie",
         "description": "The lives of two brothers from a humble background in a village get wrecked by evil-minded people from an affluent family. Can the protagonist overcome the complicated scenarios and lead a happy life with his loved ones?",
         "video": "https://www.youtube.com/embed/MbcPCSkIEb4?si=EK-r3lUDnCqK3tuo",
-        "thumbnail": "./Thumbnails/naasaamiranga.jpg"
+        "thumbnail": "/Thumbnails/naasaamiranga.jpg"
     },
     {
         "title": "Manjumel Boys",
         "category": "movie",
         "description": "A group of friends get into a daring rescue mission to save their friend from Guna Caves, a perilously deep pit from where nobody has ever been brought back.",
         "video": "https://www.youtube.com/embed/9uzfrur9SDU?si=-uzchRz_D24tuGoe",
-        "thumbnail": "./Thumbnails/manjumel.jpg",
+        "thumbnail": "/Thumbnails/manjumel.jpg",
         "key": "new",
         "blockbuster": true
     },
@@ -141,7 +141,7 @@
         "category": "movie",
         "description": "ACP Satyabhama investigates a missing person case, uncovering dark secrets across shadowy towns. Her past haunts her as she races to find the truth and redemption amidst the high-stakes investigation.",
         "video": "https://www.youtube.com/embed/gPBuvQP9Dp0?si=1Yl5PjMCTU4Cwt_R",
-        "thumbnail": "./Thumbnails/satyabhama.jpg",
+        "thumbnail": "/Thumbnails/satyabhama.jpg",
         "key": "new"
     },
     {
@@ -149,14 +149,14 @@
         "category": "movie",
         "description": "In a small village during the early 2000s, happy twins Mallikarjuna and Padmavati find their lives changing on their 25th birthday.",
         "video": "https://www.youtube.com/embed/8YE7Vzs1jgk?si=_Zv3rY0rJSv5paOR",
-        "thumbnail": "./Thumbnails/ambaji.jpg"
+        "thumbnail": "/Thumbnails/ambaji.jpg"
     },
     {
         "title": "Virupaksha",
         "category": "movie",
         "description": "When a man visits his ancestral village, where terror reigns after a chain of unexplained deaths, he must unravel mystical secrets before it's too late.",
         "video": "https://www.youtube.com/embed/BC9s_Zof_Xk?si=415VoyT_7bWZTLat",
-        "thumbnail": "./Thumbnails/virupaksha.jpg",
+        "thumbnail": "/Thumbnails/virupaksha.jpg",
         "blockbuster": true
     },
     {
@@ -164,7 +164,7 @@
         "category": "movie",
         "description": "A group filming a horror movie in a house encounters three malevolent ghosts. A sequel to the 2014 film Geethanjali.",
         "video": "https://www.youtube.com/embed/km9IDVXXYJg?si=DlrWu6sOv0-GMSgN",
-        "thumbnail": "./Thumbnails/geethanjali.jpg",
+        "thumbnail": "/Thumbnails/geethanjali.jpg",
         "key": "new"
     },
     {
@@ -172,105 +172,105 @@
         "category": "movie",
         "description": "Fear engulfs a village as murders pile up mysteriously. Shailu, a young woman is the heart of the story and the enigmatic tale unravels with a suspenseful cinematic journey.",
         "video": "https://www.youtube.com/embed/MMTEgDXHv5Y?si=BXafGnb2kePRGe6p",
-        "thumbnail": "./Thumbnails/mangalavaram.jpg"
+        "thumbnail": "/Thumbnails/mangalavaram.jpg"
     },
     {
         "title": "Bubble Gum",
         "category": "movie",
         "description": "Aadi and Jhanvi, from different backgrounds, struggle with doubts and challenges in their relationship, questioning if love can overcome their differences.",
         "video": "https://www.youtube.com/embed/m6xB8jO4_EQ?si=VK6AS0uOml5hx6mq",
-        "thumbnail": "./Thumbnails/bubble.jpg"
+        "thumbnail": "/Thumbnails/bubble.jpg"
     },
     {
         "title": "Kushi",
         "category": "movie",
         "description": "Raised in an atheist household, a young man falls in love with the daughter of his father's arch-rival, a devout Hindu leader.",
         "video": "https://www.youtube.com/embed/AsvGScyj4gw?si=NpN7WeY8APjXv8p2",
-        "thumbnail": "./Thumbnails/kushi.jpg"
+        "thumbnail": "/Thumbnails/kushi.jpg"
     },
     {
         "title": "Bro",
         "category": "movie",
         "description": "An arrogant man is given a second chance to fix his mistakes after death.",
         "video": "https://www.youtube.com/embed/ArOm-GWR6Zk?si=YHxr_OWSMX-4_PA0",
-        "thumbnail": "./Thumbnails/bro.jpg"
+        "thumbnail": "/Thumbnails/bro.jpg"
     },
     {
         "title": "Jailer",
         "category": "movie",
         "description": "A retired jailer goes on a manhunt to find his son's killers. But the road leads him to a familiar, albeit a bit darker place. Can he emerge from this complex situation successfully?",
         "video": "https://www.youtube.com/embed/VutF0FpL4Pw?si=Ivg4VvxlerbZ3_Eg",
-        "thumbnail": "./Thumbnails/jailer.jpg"
+        "thumbnail": "/Thumbnails/jailer.jpg"
     },
     {
         "title": "Chinna",
         "category": "movie",
         "description": "Chinna means the world to his niece, and so does she to him. When she gets lost, Chinna goes on a search for her, and his whole life comes crashing down. What unfolds is an emotional thriller that asks the viewer, How far will you go for your child?",
         "video": "https://www.youtube.com/embed/N9QnekMCgnE?si=2r-ZCIRABgw7Mzdj",
-        "thumbnail": "./Thumbnails/chinna.jpg"
+        "thumbnail": "/Thumbnails/chinna.jpg"
     },
     {
         "title": "Saalar",
         "category": "movie",
         "description": "The fate of a violently contested kingdom hangs on the fraught bond between two friends-turned-foes in this saga of power, bloodshed and betrayal.",
         "video": "https://www.youtube.com/embed/4GPvYMKtrtI?si=ES8zCx-8IP_lMu0V",
-        "thumbnail": "./Thumbnails/salaar.jpg"
+        "thumbnail": "/Thumbnails/salaar.jpg"
     },
     {
         "title": "Miss Shetty Mr Polishetty",
         "category": "movie",
         "description": "Miss Shetty is a feminist living in London and wants to be single forever. Mr. Polishetty from Hyderabad in Telangana, India, wants to be in a committed relationship. The two appear to be in different stages of life but somehow connect.",
         "video": "https://www.youtube.com/embed/HcAjTg8fpOM?si=kiiGwjPenrWSow9K",
-        "thumbnail": "./Thumbnails/msmp.jpg"
+        "thumbnail": "/Thumbnails/msmp.jpg"
     },
     {
         "title": "MAD",
         "category": "movie",
         "description": "Set in an engineering college and revolves around the antics of the students there, primarily the boys, who get a kick out of torturing the hostel warden.",
         "video": "https://www.youtube.com/embed/bQRCyrNmhj4?si=BgBbmzETNWTwSZBe",
-        "thumbnail": "./Thumbnails/mad.jpg"
+        "thumbnail": "/Thumbnails/mad.jpg"
     },
     {
         "title": "KGF - Chapter 1",
         "category": "movie",
         "description": "In the 1970s, a gangster named Rocky goes undercover as a slave to assassinate the owner of a notorious gold mine known as the Kolar Gold Fields.",
         "video": "https://www.youtube.com/embed/fnGW4iQzVLw?si=N7fLroTzCbv2RGD2",
-        "thumbnail": "./Thumbnails/kgf1.jpg"
+        "thumbnail": "/Thumbnails/kgf1.jpg"
     },
     {
         "title": "SIR",
         "category": "movie",
         "description": "When a private school teacher is assigned to a neglected public school, he must overcome personal and political strife in his fight for education.",
         "video": "https://www.youtube.com/embed/Kyp73i4sU1c?si=mtS8EtGBNQlbMO5I",
-        "thumbnail": "./Thumbnails/sir.jpg"
+        "thumbnail": "/Thumbnails/sir.jpg"
     },
     {
         "title": "KGF - Chapter 2",
         "category": "movie",
         "description": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
         "video": "https://www.youtube.com/embed/bDTUFufX-1s?si=zeQKgjB8dLfoZrJT",
-        "thumbnail": "./Thumbnails/kgf2.jpg"
+        "thumbnail": "/Thumbnails/kgf2.jpg"
     },
     {
         "title": "Siddharth Roy",
         "category": "movie",
         "description": "Siddharth Roy Embraces logic and reason but is overwhelmed by emotions, resulting in heartache and inner turmoil.",
         "video": "https://www.youtube.com/embed/rYsP3X1n-mU?si=dYNMiWQ4dFXpeEkF",
-        "thumbnail": "./Thumbnails/siddharth.jpg"
+        "thumbnail": "/Thumbnails/siddharth.jpg"
     },
     {
         "title": "Yatra 2",
         "category": "movie",
         "description": "The life of the former Chief Minister of Andhra Pradesh, the late YS Rajasekhara Reddy.",
         "video": "https://www.youtube.com/embed/QGhhmXgAhzc?si=Ue6xbG1SUvl86how",
-        "thumbnail": "./Thumbnails/yatra2.jpg"
+        "thumbnail": "/Thumbnails/yatra2.jpg"
     },
     {
         "title": "Software DevLoveper",
         "category": "shows",
         "description": "A group of four people including Shannu work in a software company when a new girl, Vaishnavi, joins their team. Shannu falls in love with Vaishnavi and tries to spend time with her but she treats him like a friend.",
         "video": "https://www.youtube.com/embed/uqngr_mp3r0?si=HZKmyJZ9BON2mi61",
-        "thumbnail": "./Thumbnails/software.jpg",
+        "thumbnail": "/Thumbnails/software.jpg",
         "key": "popular",
         "blockbuster": true
     },
@@ -279,21 +279,21 @@
         "category": "shows",
         "description": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
         "video": "https://www.youtube.com/embed/rcQ_xZdzPBc?si=MNQXJscDkD5SWhjU",
-        "thumbnail": "./Thumbnails/farzi.jpg"
+        "thumbnail": "/Thumbnails/farzi.jpg"
     },
     {
         "title": "Raana Naidu",
         "category": "shows",
         "description": "In the complicated world of celebrities, Rana Naidu is the go-to problem-solver. When his father is released from prison, Rana grapples with family secrets and personal conflict and realizes that the only problem he can't fix is his own.",
         "video": "https://www.youtube.com/embed/7OO5uGvNZpM?si=YabbkIh0IwdOiW_g",
-        "thumbnail": "./Thumbnails/raananaidu.jpg"
+        "thumbnail": "/Thumbnails/raananaidu.jpg"
     },
     {
         "title": "Yakshini",
         "category": "shows",
         "description": "During a quest to undo a curse, a supernatural being comes across a hopeless romantic and forms an unlikely relationship.",
         "video": "https://www.youtube.com/embed/dOcGndXayNY?si=-AJwuyYRYWe3S9q2",
-        "thumbnail": "./Thumbnails/yakshini.jpg",
+        "thumbnail": "/Thumbnails/yakshini.jpg",
         "key": "new"
     },
     {
@@ -301,7 +301,7 @@
         "category": "shows",
         "description": "A nostalgic trip down memory lane, delving into the everyday life of a middle-class family.",
         "video": "https://www.youtube.com/embed/7zzlOolbhFY?si=eCKl5fkkTI1QKo8T",
-        "thumbnail": "./Thumbnails/90's.jpg",
+        "thumbnail": "/Thumbnails/90's.jpg",
         "key": "popular",
         "blockbuster": true
     },
@@ -310,7 +310,7 @@
         "category": "shows",
         "description": "This animated prelude to Kalki 2898 AD follows a bounty hunter and a cargo ship's AI pilot who find each other to set off a crackling story of ambition, adventure, partnership and mainly friendship.",
         "video": "https://www.youtube.com/embed/AmcCwFDlX3s?si=tKWQYG8j8opA4bMo",
-        "thumbnail": "./Thumbnails/b&b.jpg",
+        "thumbnail": "/Thumbnails/b&b.jpg",
         "key": "new"
     },
     {
@@ -318,7 +318,7 @@
         "category": "shows",
         "description": "Set before the events of the films, this prequel follows Baahubali and Bhallaladeva as they unite to protect their kingdom, Mahishmati, and its throne from the looming danger of Raktadeva, a mysterious and powerful warlord.",
         "video": "https://www.youtube.com/embed/o0keLl8ypyY?si=OZ3AlMB-HBCkssGp",
-        "thumbnail": "./Thumbnails/bahubali.jpg",
+        "thumbnail": "/Thumbnails/bahubali.jpg",
         "key": "new"
     },
     {
@@ -326,7 +326,7 @@
         "category": "shows",
         "description": "Obsessed with cleanliness, a young professional is mistaken for a maid. Her fixation on tidiness leads to chaos when she takes a new job.",
         "video": "https://www.youtube.com/embed/prtvUm2cMq8?si=BVAj5eY2HI_cFMkt",
-        "thumbnail": "./Thumbnails/missperfect.jpg",
+        "thumbnail": "/Thumbnails/missperfect.jpg",
         "key": "popular"
     },
     {
@@ -334,7 +334,7 @@
         "category": "shows",
         "description": "Revolves around three frustrated husbands who meet by chance and how their rants over their marital problems set off a series of crazy events.",
         "video": "https://www.youtube.com/embed/Er9NUr8Tsxk?si=wkw389qFc6D7Yeod",
-        "thumbnail": "./Thumbnails/savetigers.jpg",
+        "thumbnail": "/Thumbnails/savetigers.jpg",
         "key": "popular",
         "blockbuster": true
     },
@@ -343,14 +343,14 @@
         "category": "shows",
         "description": "In a small South Indian town, a seemingly routine minor case explodes into a twisted crime thriller that rips apart its social fabric.",
         "video": "https://www.youtube.com/embed/w9I---1gQfs?si=enOscVkirtiFohDy",
-        "thumbnail": "./Thumbnails/suzhal.jpg"
+        "thumbnail": "/Thumbnails/suzhal.jpg"
     },
     {
         "title": "Paruvu",
         "category": "shows",
         "description": "A young couple from warring castes defies societal norms by eloping and marrying. Disowned, they're forced back to their town due to a death, only to face a sinister plan to eliminate them.",
         "video": "https://www.youtube.com/embed/m-95ssIu6xo?si=wkTDjqRr331dQAHu",
-        "thumbnail": "./Thumbnails/paruvu.jpg",
+        "thumbnail": "/Thumbnails/paruvu.jpg",
         "key": "new"
     },
     {
@@ -358,28 +358,28 @@
         "category": "shows",
         "description": "When a van driver finds a dead body in his truck, he has to take extreme measures to find out the reason behind the death.",
         "video": "https://www.youtube.com/embed/yvkZBlB4JxU?si=cW97xqVY0hYtjPEX",
-        "thumbnail": "./Thumbnails/dayaa.jpg"
+        "thumbnail": "/Thumbnails/dayaa.jpg"
     },
     {
         "title": "Parampara",
         "category": "shows",
         "description": "The story of Parampara tracks the journey of Gopi (Naveen Chandra) a third-generation boy of the powerful Naidu family. He is the son of Mohan Rao (Jagapathi Babu) and holds grudge against Naidu (Sarath Kumar) for taking his dads position.",
         "video": "https://www.youtube.com/embed/OMdaOOljXvE?si=mZBUvJYA1oDc1dBx",
-        "thumbnail": "./Thumbnails/parampara.jpg"
+        "thumbnail": "/Thumbnails/parampara.jpg"
     },
     {
         "title": "Modern Love Hyderabad",
         "category": "shows",
         "description": "Explores six diverse yet universal stories of different facets, shades and moods of love, all set in the city's many unique milieus.",
         "video": "https://www.youtube.com/embed/Vq6LO3i6i8c?si=Dv1y9q62XDKSTAzp",
-        "thumbnail": "./Thumbnails/mlh.jpg"
+        "thumbnail": "/Thumbnails/mlh.jpg"
     },
     {
         "title": "Kumari Srimathi",
         "category": "shows",
         "description": "A young woman who will do anything to save her ancestral home, which also means breaking traditions. She decides to open a restaurant and bar in the village, much to everyone's family and the community surprise.",
         "video": "https://www.youtube.com/embed/e4GU4-0tz2s?si=77wX4bVBl4M3lyBu",
-        "thumbnail": "./Thumbnails/kumari.jpg",
+        "thumbnail": "/Thumbnails/kumari.jpg",
         "key": "new"
     },
     {
@@ -387,42 +387,42 @@
         "category": "shows",
         "description": "The story of Dr Anand Chakravarthy ( Satyadev ), a neurosurgeon, and what happens when he is trapped inside his own house.",
         "video": "https://www.youtube.com/embed/l0KfLkIKL4s?si=3-KV2BcwTU3szfpZ",
-        "thumbnail": "./Thumbnails/locked.jpg"
+        "thumbnail": "/Thumbnails/locked.jpg"
     },
     {
         "title": "Sashi Madhanam",
         "category": "shows",
         "description": "When Madhan seeks refuge from gambling debt at his girlfriend Shashi empty family home, their clandestine love story becomes a two weeks game of comedic deception when the family returns unexpectedly early.",
         "video": "https://www.youtube.com/embed/EyMkn2LS1ag?si=FTBnXNRb3WWvSnEA",
-        "thumbnail": "./Thumbnails/shashi.jpg"
+        "thumbnail": "/Thumbnails/shashi.jpg"
     },
     {
         "title": "Surya",
         "category": "shows",
         "description": "The show follows the story of Surya, a middle-class youngster struggling to find a decent job but to his misfortune, he never achieves any success at the task.",
         "video": "https://www.youtube.com/embed/BwzeY6RYMFM?si=E1OS0i1pfwcbSmsj",
-        "thumbnail": "./Thumbnails/surya.jpg"
+        "thumbnail": "/Thumbnails/surya.jpg"
     },
     {
         "title": "Bahubali : Before The Beginning",
         "category": "shows",
         "description": "A mutinous and bitter girl with a vengeance against the throne of Mahishmati gets involved in the politics and powerplay of the empire.",
         "video": "https://www.youtube.com/embed/ugMYkJKJNAg?si=dzzn4UYqY5xkMZH3",
-        "thumbnail": "./Thumbnails/bahubali_before.jpg"
+        "thumbnail": "/Thumbnails/bahubali_before.jpg"
     },
     {
         "title": "Temporary Roommates",
         "category": "shows",
         "description": "Sandeep and Karthik are roommates, who are living peacefully in their lives. Everything changes when an Uninvited guest, a girl enters their flat and lives.",
         "video": "https://www.youtube.com/embed/UQ96Eebhb4A?si=BIpOdYwCH2_W0i88",
-        "thumbnail": "./Thumbnails/temp.jpg"
+        "thumbnail": "/Thumbnails/temp.jpg"
     },
     {
         "title": "30 Weds 21",
         "category": "shows",
         "description": "A 30 year old run-of-the-mill IT professional is hitched to a lazy 21 year old fresh out of college. Unfold an unconventional love story that transcends generations.",
         "video": "https://www.youtube.com/embed/AlmfhMou7gI?si=GSwF1-tIZvdVNuAR",
-        "thumbnail": "./Thumbnails/30weds21.jpg",
+        "thumbnail": "/Thumbnails/30weds21.jpg",
         "key": "popular",
         "blockbuster": true
     },
@@ -431,14 +431,14 @@
         "category": "shows",
         "description": "Charming first encounters leads to new experiences and pleasant discoveries in this heart-warming anthology series. Swathi, Saru, Padma, Shalini and Anjana's meet-cutes open them up to whole new perspective on life.",
         "video": "https://www.youtube.com/embed/KmvzozDXfzU?si=x7R_BHUX7bE13RJp",
-        "thumbnail": "./Thumbnails/meetcute.jpg"
+        "thumbnail": "/Thumbnails/meetcute.jpg"
     },
     {
         "title": "Tondara Padaku Sundara Vadana - 1",
         "category": "shows",
         "description": "A love triangle involving RK and three girls, leading to emotional confrontations and reflections on relationships.",
         "video": "https://www.youtube.com/embed/Cbkc42zRgCk?si=CZEsI6pgyJgqRIJB",
-        "thumbnail": "./Thumbnails/tpsv.jpg",
+        "thumbnail": "/Thumbnails/tpsv.jpg",
         "blockbuster": true
     },
     {
@@ -446,14 +446,14 @@
         "category": "shows",
         "description": "The story revolves around Satya and RK professional and personal life challenges, promotions, and relationships, culminating in heartfelt moments and emotional resolutions.",
         "video": "https://www.youtube.com/embed/vnUGTDvuGng?si=ihPm7jpoll3g9o2Q",
-        "thumbnail": "./Thumbnails/tpsv2.jpg"
+        "thumbnail": "/Thumbnails/tpsv2.jpg"
     },
     {
         "title": "Dear Kavya",
         "category": "shows",
         "description": "Dear Kavya is a 2024 Telugu movie from Season 1 featuring Rowdy Baby, exploring complex relationships and emotional journeys, interspersed with South Indian cultural elements and dramatic twists.",
         "video": "https://www.youtube.com/embed/Vrcjv--S2YA?si=-7MR-a2oKm3o1nBW",
-        "thumbnail": "./Thumbnails/dearkavya.jpg",
+        "thumbnail": "/Thumbnails/dearkavya.jpg",
         "key": "popular",
         "blockbuster": true
     },
@@ -462,14 +462,14 @@
         "category": "shows",
         "description": "Dear Kavya is a 2024 Telugu movie from Season 2 featuring Rowdy Baby, exploring complex relationships and emotional journeys, interspersed with South Indian cultural elements and dramatic twists.",
         "video": "https://www.youtube.com/embed/SkzJStHeeLg?si=ejwEfGTWIWyAyuXR",
-        "thumbnail": "./Thumbnails/dearkavya2.jpg"
+        "thumbnail": "/Thumbnails/dearkavya2.jpg"
     },
     {
         "title": "Neetho Jathaga",
         "category": "shows",
         "description": "A romantic tale of a couple Vikas and Kriti who just started living together. Things go cool for a while, but Vikas's struggles start because of Kriti's extrovert behavior.",
         "video": "https://www.youtube.com/embed/videoseries?si=KUTX-2I0ZIy4yQU-&amp;list=PL3IdwjNH39b0hCUWOb0LwzSjwJokxOM__",
-        "thumbnail": "./Thumbnails/nithojathaga.jpg",
+        "thumbnail": "/Thumbnails/nithojathaga.jpg",
         "key": "popular"
     },
     {
@@ -477,14 +477,14 @@
         "category": "shows",
         "description": "A 30 year old run-of-the-mill IT professional is hitched to a lazy 21 year old fresh out of college. Unfold an unconventional love story that transcends generations.",
         "video": "https://www.youtube.com/embed/ZAxTOWTxjMc?si=H-tJ8P26gVc-wrKS",
-        "thumbnail": "./Thumbnails/30weds20-2.jpg"
+        "thumbnail": "/Thumbnails/30weds20-2.jpg"
     },
     {
         "title": "Anasuya Ramalingam",
         "category": "shows",
         "description": "The script follows the story of Anasuya and her journey in the professional world, filled with challenges and personal growth.",
         "video": "https://www.youtube.com/embed/8Jlnoo8K2Q0?si=cs5tES1JNFedrxfp",
-        "thumbnail": "./Thumbnails/ansyrmlngm.jpg",
+        "thumbnail": "/Thumbnails/ansyrmlngm.jpg",
         "blockbuster": true
     },
     {
@@ -492,35 +492,35 @@
         "category": "shows",
         "description": "College Life of a Student ",
         "video": "https://www.youtube.com/embed/Qw1c6hM2mz0?si=JC5FLQOT76NYLfOy",
-        "thumbnail": "./Thumbnails/student.jpg"
+        "thumbnail": "/Thumbnails/student.jpg"
     },
     {
         "title": "Team Leader",
         "category": "shows",
         "description": "A Team Leader life facing Challenges and Solving them.",
         "video": "https://www.youtube.com/embed/qbBgvwl76oE?si=_h4ZuyV8MOYv8b4_",
-        "thumbnail": "./Thumbnails/teamleader.jpg"
+        "thumbnail": "/Thumbnails/teamleader.jpg"
     },
     {
         "title": "Madam Sir Madam Anthe - 1",
         "category": "shows",
         "description": "A couple love story where wife hates the husband, but husband loves her comforts her.",
         "video": "https://www.youtube.com/embed/ibP58oqeCz0?si=hRsOtVHNcQuGhv4v",
-        "thumbnail": "./Thumbnails/msma1.jpg"
+        "thumbnail": "/Thumbnails/msma1.jpg"
     },
     {
         "title": "Madam Sir Madam Anthe - 2",
         "category": "shows",
         "description": "A couple love story where wife hates the husband, but husband loves her comforts her. Here the wife falls in love with the husband",
         "video": "https://www.youtube.com/embed/-WG6_14evWk?si=JYoduIduZmJCgedz",
-        "thumbnail": "./Thumbnails/msma2.jpg"
+        "thumbnail": "/Thumbnails/msma2.jpg"
     },
     {
         "title": "Pelli Vaaramandi - 1",
         "category": "shows",
         "description": "A 30yr old man wants to get married and faces problems to get married, at last his frnd confess her love to him and get ready to marry but here comes the twist.",
         "video": "https://www.youtube.com/embed/Z7unDIkZF5E?si=tmkpAwZzoukxj-9u",
-        "thumbnail": "./Thumbnails/pellivaaramandi.jpg",
+        "thumbnail": "/Thumbnails/pellivaaramandi.jpg",
         "key": "new"
     },
     {
@@ -528,7 +528,7 @@
         "category": "shows",
         "description": "A 30yr old man after facing many challenges loses interest in marriage and lives his life normally. His frnd is gonna marry someone and then the main plot comes.",
         "video": "https://www.youtube.com/embed/hqro5G3FDiw?si=mire3ZNQD9LRv7r6",
-        "thumbnail": "./Thumbnails/pellivaramandi2.jpg",
+        "thumbnail": "/Thumbnails/pellivaramandi2.jpg",
         "key": "new"
     }
 ]
